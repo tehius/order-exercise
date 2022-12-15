@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\order\order\bin\Debug\order.exe.config
+C:\Users\Felipe\source\repos\order\order\bin\Debug\order.exe
+C:\Users\Felipe\source\repos\order\order\bin\Debug\order.pdb
+C:\Users\Felipe\source\repos\order\order\obj\Debug\order.csproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\order\order\obj\Debug\order.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\order\order\obj\Debug\order.exe
+C:\Users\Felipe\source\repos\order\order\obj\Debug\order.pdb
